@@ -1,2 +1,3 @@
 console.log("Hello World!\n");
 console.log("Welcome!\n");
+console.log("Sunday!\n");
